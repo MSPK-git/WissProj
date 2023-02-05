@@ -1,0 +1,6 @@
+mapvisu/public/small.json filter=lfs diff=lfs merge=lfs -text
+mapvisu/public/data-gut.json filter=lfs diff=lfs merge=lfs -text
+mapvisu/public/data-mid.json filter=lfs diff=lfs merge=lfs -text
+mapvisu/public/data.json filter=lfs diff=lfs merge=lfs -text
+mapvisu/public/infrastructure.json filter=lfs diff=lfs merge=lfs -text
+mapvisu/public/manifest.json filter=lfs diff=lfs merge=lfs -text
